@@ -1,11 +1,5 @@
-https://ux.pub/editorial/polnyie-illiustrirovannyie-ghaidlainy-po-dizainu-pod-ios-13-4p7d
-https://ux.pub/dinozavrix/povni-iliustrovani-ghaidlaini-z-dizainu-pid-ios-16-35io
-Основные различия
-    https://medium.com/design-pub/https-medium-com-rmrdesignlab-32-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D1%8F-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B1-        %D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-ios-android-5c9cbc90c4d
-    https://senior.ua/articles/28-vdmnnostey-dizaynu-moblnogo-dodatku-pd-ios--android
-    https://vladislaveremeev.gitbook.io/qa_bible/mobilnoe-testirovanie/osnovnye-razlichiya-android-ios
-
-Основные различия Android/iOS
+	Гайдлайны iOS называются Human Interface Guidelines и представляют собой рекомендации системы по проектированию интерфейса приложения на устройствах Apple.
+			Основные различия Android/iOS
 Последние годы обе системы заимствовали что-то друг у друга и пользовательский опыт теперь у них мало чем отличается, тем не менее, различий всё ещё хватает в другом:
 iOS - закрытая система, а Android - open-source;
 Языки разработки: Android - Kotlin/Java, iOS - objective-С или Swift;
